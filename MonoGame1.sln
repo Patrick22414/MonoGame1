@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame1", "MonoGame1\MonoGame1.csproj", "{BD9CEE5E-3830-4785-B4C6-DF5D7BAB3929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD9CEE5E-3830-4785-B4C6-DF5D7BAB3929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9CEE5E-3830-4785-B4C6-DF5D7BAB3929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9CEE5E-3830-4785-B4C6-DF5D7BAB3929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9CEE5E-3830-4785-B4C6-DF5D7BAB3929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
