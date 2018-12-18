@@ -9,7 +9,7 @@ namespace MonoGame1
     {
         private GraphicsDevice _graphicsDevice;
 
-        private const float RotationSpeed = (float) Math.PI / 1000;    
+        private const float RotationSpeed = (float) Math.PI / 500;    
         
         private double _theta;
         private double _phi;
@@ -21,6 +21,8 @@ namespace MonoGame1
         {
             _graphicsDevice = graphicsDevice;
         }
+
+        public Matrix WorldMatrix => Matrix.CreateTranslation(Vector3.Zero);
 
         public Matrix ViewMatrix
         {
